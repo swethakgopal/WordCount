@@ -10,15 +10,15 @@ To download the entire codebase: Download the zipped folder to your local drive 
 There are 2 ways to execute the project depending on your choice and specifications. 
 
 ### Running from Jar file
-**Prerequisites**: Java must be installed
+**Prerequisites**: Java 17 or the latest version must be installed
 1. Open terminal
-2. Change into the location of WordCount directory. For example if WordCount folder is saved in Documents: `cd Documents/WordCount`
+2. Change the location of the WordCount directory. For example, if the WordCount folder is saved in Documents: `cd Documents/WordCount`
 3. Run `java -jar WordCounter.jar <Path of text file>`
 
 ### Compile and Run
-**Prerequisites**: Java must be installed
+**Prerequisites**: Java 8 or the latest version must be installed
 1. Open terminal
-2. Change into the location of WordCount directory. For example if WordCount folder is saved in Documents: `cd Documents/WordCount`
+2. Change the location of the WordCount directory. For example, if WordCount folder is saved in Documents: `cd Documents/WordCount`
 3. Run `javac`
 4. Run `java ./src/WordCounter <Path of text file>`
    - Note: I have attached two test input files named, TestFile1.txt and TestFile2.txt at the base directory if needed.
